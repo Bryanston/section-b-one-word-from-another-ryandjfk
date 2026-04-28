@@ -1,0 +1,15 @@
+/workspaces/section-b-one-word-from-another-ryandjfk/obj/Debug/net10.0/ConsoleTemplate.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/section-b-one-word-from-another-ryandjfk/obj/Debug/net10.0/ConsoleTemplate.AssemblyInfoInputs.cache
+/workspaces/section-b-one-word-from-another-ryandjfk/obj/Debug/net10.0/ConsoleTemplate.AssemblyInfo.cs
+/workspaces/section-b-one-word-from-another-ryandjfk/obj/Debug/net10.0/ConsoleTemplate.csproj.CoreCompileInputs.cache
+/workspaces/section-b-one-word-from-another-ryandjfk/obj/Debug/net10.0/ConsoleTemplate.sourcelink.json
+/workspaces/section-b-one-word-from-another-ryandjfk/bin/Debug/net10.0/ConsoleTemplate
+/workspaces/section-b-one-word-from-another-ryandjfk/bin/Debug/net10.0/ConsoleTemplate.deps.json
+/workspaces/section-b-one-word-from-another-ryandjfk/bin/Debug/net10.0/ConsoleTemplate.runtimeconfig.json
+/workspaces/section-b-one-word-from-another-ryandjfk/bin/Debug/net10.0/ConsoleTemplate.dll
+/workspaces/section-b-one-word-from-another-ryandjfk/bin/Debug/net10.0/ConsoleTemplate.pdb
+/workspaces/section-b-one-word-from-another-ryandjfk/obj/Debug/net10.0/ConsoleTemplate.dll
+/workspaces/section-b-one-word-from-another-ryandjfk/obj/Debug/net10.0/refint/ConsoleTemplate.dll
+/workspaces/section-b-one-word-from-another-ryandjfk/obj/Debug/net10.0/ConsoleTemplate.pdb
+/workspaces/section-b-one-word-from-another-ryandjfk/obj/Debug/net10.0/ConsoleTemplate.genruntimeconfig.cache
+/workspaces/section-b-one-word-from-another-ryandjfk/obj/Debug/net10.0/ref/ConsoleTemplate.dll
