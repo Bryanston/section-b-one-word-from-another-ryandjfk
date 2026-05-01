@@ -47,11 +47,11 @@ class Program
 
         if (canBeMade)
         {
-            Console.WriteLine("Yes");
+            Console.WriteLine($"{word1} can be made from {word2}");
         }
         else
         {
-            Console.WriteLine("No");
+            Console.WriteLine($"{word1} cannot be made from {word2}");
         }
 
     } 
